@@ -13,7 +13,7 @@
     - [Licensing](#licensing)
   - [How To Use](#how-to-use)
     - [Installation](#installation)
-    - [Command Line Arguements](#command-line-arguements)
+    - [Command Line Arguments](#command-line-arguments)
 
 ## About
 
@@ -32,7 +32,7 @@ You can install the tool via `pip` with either of the two following one-liners:
 - `pip install --upgrade pip clime-metrics`
 - `pip install --upgrade pip clime-issue-density`
 
-### Command Line Arguements
+### Command Line Arguments
 
 `clime-issue-density-compute -h`
 
